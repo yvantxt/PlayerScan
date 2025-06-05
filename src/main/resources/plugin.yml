@@ -1,0 +1,17 @@
+name: SSPlugin
+version: 1.0
+main: me.yvant.SSPlugin
+api-version: 1.13
+commands:
+  ss:
+    description: Start screenshare
+  screenshare:
+    description: Alias of ss
+  unss:
+    description: End screenshare
+  unscreenshare:
+    description: Alias of unss
+  setss:
+    description: Set SS location
+  setscreenshare:
+    description: Alias of setss

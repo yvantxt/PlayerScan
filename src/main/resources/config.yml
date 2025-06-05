@@ -1,0 +1,25 @@
+ss-location:
+  world: world
+  x: 0
+  y: 64
+  z: 0
+
+messages:
+  title:
+    enabled: true
+    text: "&cYou are now under SS"
+  chat:
+    enabled: true
+    text: "&7You were moved for a screenshare."
+  sound:
+    enabled: true
+    ss: "ENTITY_EXPERIENCE_ORB_PICKUP"
+    unss: "ENTITY_BLAZE_DEATH"
+
+return-to-spawn: false
+
+timer:
+  enabled: false
+  seconds: 300
+  ban:
+    command: "ban {player} 7d run ss"
