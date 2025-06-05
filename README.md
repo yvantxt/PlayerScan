@@ -35,4 +35,4 @@ Plugin made by yvant
 Discord: trolleryvant
 Telegram: yvant_dev
 
-
+https://www.spigotmc.org/resources/playerscan-plugin.125744/
